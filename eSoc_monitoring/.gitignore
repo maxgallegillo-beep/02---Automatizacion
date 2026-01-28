@@ -1,0 +1,29 @@
+# Entornos virtuales
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Outputs del eSOC
+output/
+logs/
+
+# Snapshots y raws
+*.txt
+*.json
+
+# Llaves / credenciales sueltas
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
